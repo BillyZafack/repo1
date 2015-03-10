@@ -1,4 +1,6 @@
-#TEAMMATES Developer Web Site
+#TEAMMATES Developer Web Site(With Slight CSS Modifications on the original Teammates' UI: by Billy Zafack)
+
+NB:Please check the descriptions and GitHub utilities to see the modifications made.
 
 TEAMMATES is a free online tool for managing peer evaluations and other 
 feedback paths of your students. It is provided as a cloud-based service for 
